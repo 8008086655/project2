@@ -1,0 +1,7 @@
+ls (list all directories)	Lists all the files and directories inside the current directory in which you are.	Syntax: $ ls
+ls -R 	Lists all the files and directories inside the current directory as well as all the files and directories of the sub-directories as well.	Syntax: $ ls -R
+ls -a	Lists all the files and directories in the current directory and also lists the hidden files (such as .git files). However, this command does not list the files and directories of the sub-directories.
+ls -al	Lists files and directories of the current directory along with the details like permissions (read, write, execute), owner, file/dir size, etc.	Syntax: $ ls -al
+cd	This command is used to move to the root directory.	Syntax: $ cd
+cd ~	Same function as cd i.e. move to the root/home directory. Please note that there is a space between cd and tilde (~) symbol.	Syntax: $ cd ~
+cd ..	Move to one level up directory.	Syntax: $ cd ..
