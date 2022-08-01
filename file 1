@@ -6,3 +6,4 @@ cd	This command is used to move to the root directory.	Syntax: $ cd
 cd ~	Same function as cd i.e. move to the root/home directory. Please note that there is a space between cd and tilde (~) symbol.	Syntax: $ cd ~
 cd ..	Move to one level up directory.	Syntax: $ cd ..
 today is monday
+This is August month
